@@ -12,3 +12,5 @@ $chmod g+x macaddr.sh
 $sh macaddr.sh
 
 It will ask user to enter MAC address: and shows the result.
+
+Also you can use python script too.
